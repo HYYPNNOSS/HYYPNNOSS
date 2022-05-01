@@ -5,6 +5,7 @@
 ```c
 #include <mlx.h>
 #include <math.h>
+//math function: "y=x^{\frac{2}{3}}+0.9*\sqrt{3.3\ -\ x^{2}}*\sin(a*\pi*x)\"
 
 typedef struct    s_data {
     void    *img;
