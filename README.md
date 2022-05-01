@@ -32,9 +32,9 @@ int    main(void)
     void    *mlx;
     void    *mlx_win;
     t_data    img;
-    int x = 500;
+    double x = 500;
     double tmp_x;
-    int a = 100;
+    double a = 10000;
     double y;
     mlx = mlx_init();
     mlx_win = mlx_new_window(mlx, 1920, 1080, "Hello world!");
@@ -42,15 +42,21 @@ int    main(void)
     img.addr = mlx_get_data_addr(img.img, &img.bits_per_pixel, &img.line_length,
                                 &img.endian);
 
+double yy;
+double yyy;
+double yyyy;
     while (x < 1000)
     {
-        tmp_x = map(x, 500, 1000, -2, 2);
-        y = cbrt(pow(tmp_x, 2)) + 0.9 * sqrt(3.3 - pow(tmp_x, 2)) * sin(a * M_PI * tmp_x);
-        my_mlx_pixel_put(&img, x, map(y, 2, -2, 500, 1000), 0x00FF0000);
-        x++;
+        tmp_x = map(x, 500, 1000, 1.8164, -1.8164);
+        y = 0;
+        yy = cbrt(pow(tmp_x, 2));
+        yyy = 0.9 * sqrt(3.3 - pow(tmp_x, 2));
+        yyyy = sin(a * M_PI * tmp_x);
+        y = yy + yyy * yyyy;
+        my_mlx_pixel_put(&img, x, map(y, 1.8164, -1.8164, 500, 1000), 0x00FF0000);
+        x= x + 0.0001 ;
     }
     mlx_put_image_to_window(mlx, mlx_win, img.img, 0, 0);
     mlx_loop(mlx);
 }
-
 ```
