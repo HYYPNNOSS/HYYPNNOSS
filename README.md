@@ -54,7 +54,7 @@ double yyyy;
         yyy = 0.9 * sqrt(3.3 - pow(tmp_x, 2));
         yyyy = sin(a * M_PI * tmp_x);
         y = yy + yyy * yyyy;
-        my_mlx_pixel_put(&img, x, map(y, 1.8164, -1.8164, 500, 1000), 0x00FF0000);
+        my_mlx_pixel_put(&img, x, map(y, 1.8164, -1.8164, 500, 1000), 0x002b1d69);
         x= x + 0.0001 ;
     }
     mlx_put_image_to_window(mlx, mlx_win, img.img, 0, 0);
