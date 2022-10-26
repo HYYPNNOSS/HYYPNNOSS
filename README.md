@@ -13,7 +13,13 @@
 
 
 
+<p align="left">
+  <img src="https://github.com/HYYPNNOSS/HYYPNNOSS/blob/main/nyan-cat-right.gif" alt="meow hhh" width="20" height="15" />
+</p>
 <h3 align="center"> 𝟜𝟚 𝕡𝕣𝕠𝕗𝕚𝕝𝕖: </h3>
+<p align="right">
+  <img src="https://github.com/HYYPNNOSS/HYYPNNOSS/blob/main/nyan-cat-left.gif" alt="meow hhh" width="20" height="15" />
+</p>
 <br>
 <p align="center">
 <img src="https://badge42.vercel.app/api/v2/cl2i5l5rv000609mjmb5tsx1l/stats?cursusId=21&coalitionId=74">
