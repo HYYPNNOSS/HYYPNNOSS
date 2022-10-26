@@ -3,7 +3,7 @@
 </p>
 <br>
 <br>
-> ### 𝐌𝐄𝐃𝐔𝐒𝐀 : 𝕄𝔼      𝐏𝐎𝐒𝐄𝐈𝐃𝐎𝐍 : [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />][c]
+<p align="center"> 𝐌𝐄𝐃𝐔𝐒𝐀 : 𝕄𝔼      𝐏𝐎𝐒𝐄𝐈𝐃𝐎𝐍 : <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> </p>
 
 
 
