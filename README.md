@@ -52,6 +52,7 @@ int    main(void)
     t_data    img;
     double x = 500;
     double tmp_x;
+   //change a value (0 < a < 280)
     double a = 10000;
     double y;
     mlx = mlx_init();
