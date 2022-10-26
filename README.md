@@ -11,7 +11,7 @@
 
 
 
-<h3 align="center"> 42 Student </h3>
+<h3 align="center" style="font-family : serif"> 42 PROFILE: </h3>
 <br>
 <p align="center">
 <img src="https://badge42.vercel.app/api/v2/cl2i5l5rv000609mjmb5tsx1l/stats?cursusId=21&coalitionId=74">
