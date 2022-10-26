@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/HYYPNNOSS/HYYPNNOSS/blob/main/1027f80aeabcbb74a2e698be71829e9e.gif" alt="batmam hhh" width="250" height="250" />
 </p>
-
+<br>
+<br>
+> ### 𝐌𝐄𝐃𝐔𝐒𝐀 : 𝕄𝔼      𝐏𝐎𝐒𝐄𝐈𝐃𝐎𝐍 : [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />][c]
 
 
 
