@@ -12,11 +12,10 @@
 
 
 
-
-<p>
-  <img src="https://github.com/HYYPNNOSS/HYYPNNOSS/blob/main/nyan-cat-right.gif" align="left" alt="meow hhh" width="150" height="100" />
 <h3 align="center"> 𝟜𝟚 𝕡𝕣𝕠𝕗𝕚𝕝𝕖: </h3>
-  <img src="https://github.com/HYYPNNOSS/HYYPNNOSS/blob/main/nyan-cat-left.gif" align="right" alt="meow hhh" width="150" height="100" />
+<p>
+  <img src="https://github.com/HYYPNNOSS/HYYPNNOSS/blob/main/nyan-cat-right.gif" align="left" alt="meow hhh" width="200" height="100" />
+  <img src="https://github.com/HYYPNNOSS/HYYPNNOSS/blob/main/nyan-cat-left.gif" align="right" alt="meow hhh" width="200" height="100" />
 </p>
 <br>
 <p align="center">
